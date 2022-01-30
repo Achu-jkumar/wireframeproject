@@ -12,7 +12,9 @@ Write your design steps here
 Write your design steps here
 
 ## OUTPUT:
-include your output screenshots 
+![github](./Home.png)
+![github](./Aboutus.png)
+![github](./admin.png)
 
 
 ## Result:
